@@ -721,6 +721,12 @@
       "email": "user1@example.com",
       "password": "user123",
       "role": "user"
+    },
+    {
+      "id": "0b6f",
+      "email": "s@gmail.com",
+      "password": "s",
+      "role": "user"
     }
   ]
 }
