@@ -1,0 +1,726 @@
+{
+  "testSeries": [
+    {
+      "id": "1",
+      "title": "Mathematics Basic",
+      "duration": 60,
+      "totalQuestions": 10,
+      "difficulty": "Easy",
+      "subject": "Mathematics",
+      "description": "Basic mathematics covering arithmetic, algebra and geometry"
+    },
+    {
+      "id": "2",
+      "title": "Science Quiz",
+      "duration": 45,
+      "totalQuestions": 15,
+      "difficulty": "Medium",
+      "subject": "Science",
+      "description": "General science covering physics, chemistry and biology"
+    },
+    {
+      "id": "3",
+      "title": "English Grammar",
+      "duration": 30,
+      "totalQuestions": 8,
+      "difficulty": "Easy",
+      "subject": "English",
+      "description": "English grammar and comprehension test"
+    },
+    {
+      "id": "4",
+      "title": "Advanced Physics",
+      "duration": 90,
+      "totalQuestions": 20,
+      "difficulty": "Hard",
+      "subject": "Physics",
+      "description": "Advanced physics covering mechanics, thermodynamics and optics"
+    },
+    {
+      "id": "5",
+      "title": "Safety practice and Hand tools",
+      "duration": 30,
+      "totalQuestions": 28,
+      "difficulty": "Easy",
+      "subject": "ELECTRICIAN",
+      "description": "Safety practice and Hand tools"
+    }
+  ],
+  "questions": {
+    "1": [
+      {
+        "id": 1,
+        "question": "What is 15 + 25?",
+        "options": [
+          "35",
+          "40",
+          "45",
+          "50"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "id": 2,
+        "question": "What is the square root of 64?",
+        "options": [
+          "6",
+          "7",
+          "8",
+          "9"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "id": 3,
+        "question": "What is 12 × 8?",
+        "options": [
+          "84",
+          "96",
+          "104",
+          "112"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "id": 4,
+        "question": "What is 144 ÷ 12?",
+        "options": [
+          "11",
+          "12",
+          "13",
+          "14"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "id": 5,
+        "question": "What is 7²?",
+        "options": [
+          "42",
+          "45",
+          "49",
+          "52"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "id": 6,
+        "question": "What is 25% of 80?",
+        "options": [
+          "15",
+          "20",
+          "25",
+          "30"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "id": 7,
+        "question": "What is the perimeter of a square with side 5 cm?",
+        "options": [
+          "15 cm",
+          "20 cm",
+          "25 cm",
+          "30 cm"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "id": 8,
+        "question": "What is 3³?",
+        "options": [
+          "9",
+          "18",
+          "27",
+          "36"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "id": 9,
+        "question": "What is 100 - 37?",
+        "options": [
+          "63",
+          "67",
+          "73",
+          "77"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "id": 10,
+        "question": "What is the area of a rectangle with length 8 and width 6?",
+        "options": [
+          "42",
+          "48",
+          "54",
+          "60"
+        ],
+        "correctAnswer": 1
+      }
+    ],
+    "2": [
+      {
+        "id": 1,
+        "question": "What is the chemical symbol for water?",
+        "options": [
+          "H2O",
+          "CO2",
+          "NaCl",
+          "O2"
+        ],
+        "correctAnswer": 0
+      },
+      {
+        "id": 2,
+        "question": "How many planets are in our solar system?",
+        "options": [
+          "7",
+          "8",
+          "9",
+          "10"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "id": 3,
+        "question": "What is the process by which plants make food?",
+        "options": [
+          "Respiration",
+          "Photosynthesis",
+          "Digestion",
+          "Absorption"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "id": 4,
+        "question": "What is the smallest unit of matter?",
+        "options": [
+          "Molecule",
+          "Atom",
+          "Cell",
+          "Electron"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "id": 5,
+        "question": "What gas do plants absorb from the atmosphere?",
+        "options": [
+          "Oxygen",
+          "Nitrogen",
+          "Carbon Dioxide",
+          "Hydrogen"
+        ],
+        "correctAnswer": 2
+      }
+    ],
+    "3": [
+      {
+        "id": 1,
+        "question": "Which of the following is a noun?",
+        "options": [
+          "Run",
+          "Beautiful",
+          "Book",
+          "Quickly"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "id": 2,
+        "question": "What is the past tense of 'go'?",
+        "options": [
+          "Goed",
+          "Went",
+          "Gone",
+          "Going"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "id": 3,
+        "question": "Which sentence is grammatically correct?",
+        "options": [
+          "He don't like pizza",
+          "He doesn't like pizza",
+          "He not like pizza",
+          "He no like pizza"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "id": 4,
+        "question": "What type of word is 'quickly'?",
+        "options": [
+          "Noun",
+          "Verb",
+          "Adjective",
+          "Adverb"
+        ],
+        "correctAnswer": 3
+      }
+    ],
+    "4": [
+      {
+        "id": 1,
+        "question": "What is Newton's first law of motion?",
+        "options": [
+          "F = ma",
+          "An object at rest stays at rest",
+          "Action equals reaction",
+          "E = mc²"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "id": 2,
+        "question": "What is the SI unit of force?",
+        "options": [
+          "Joule",
+          "Newton",
+          "Pascal",
+          "Watt"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "id": 3,
+        "question": "What is the acceleration due to gravity on Earth?",
+        "options": [
+          "9.8 m/s²",
+          "10 m/s²",
+          "8.9 m/s²",
+          "11 m/s²"
+        ],
+        "correctAnswer": 0
+      }
+    ],
+    "5": [
+      {
+        "id": 1,
+        "question": "What is the name of the safety sign? ✚",
+        "options": [
+          "Warning sign",
+          "Mandatory sign",
+          "Prohibition sign",
+          "Information sign"
+        ],
+        "correctAnswer": 4
+      },
+      {
+        "id": 2,
+        "question": "What is smothering in extinguishing of fire?",
+        "options": [
+          "Adding the fuel element to the fire",
+          "Removing the fuel element from the fire",
+          "Using of water to lower the temperature",
+          "Isolating the fire from the supply of oxygen"
+        ],
+        "correctAnswer": 4
+      },
+      {
+        "id": 3,
+        "question": "Which is the physical hazard?",
+        "options": [
+          "Smoking",
+          "Smoking",
+          "Corrosive",
+          "Radio active"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "id": 4,
+        "question": "Which is the correct sequence of operation to be performed when using the fire extinguisher?",
+        "options": [
+          "Pull, Aim, Squeeze, Sweep",
+          "Pull, Aim, Sweep, Squeeze",
+          "Push, Arrange, Squeeze, Sweep",
+          "Push, Arrange, Sweep, Sequence"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "id": 5,
+        "question": "Which step of the 5s-concept refers “Standardization”? ",
+        "options": [
+          "Step - 1",
+          "Step - 2",
+          "Step - 3",
+          "Step - 4"
+        ],
+        "correctAnswer": 4
+      },
+      {
+        "id": 6,
+        "question": "Which plier is used for making wire hooks and loops? ",
+        "options": [
+          "Flat nose plier",
+          "Long nose plier",
+          "Round nose plier",
+          "Diagonal cutting plier"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "id": 7,
+        "question": "What is the use of pincer?",
+        "options": [
+          "Twisting the flexible wires",
+          "Cutting small diameter of wires",
+          "Extracting the pin nails from the wood",
+          "Holding small objects, where finger cannot reach"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "id": 8,
+        "question": "What is the name of road safety sign? 🛑",
+        "options": [
+          "Mandatory sign",
+          "Cautionary sign",
+          "Informatory sign",
+          "Prohibition sign"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "id": 9,
+        "question": "What is the back-ground colour of warning signs in the basic category?",
+        "options": [
+          "Blue",
+          "White",
+          "Yellow",
+          "Green"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "id": 10,
+        "question": "Which type of fire extinguisher is used for fire on electrical equipment?",
+        "options": [
+          "Halon type",
+          "Foam type",
+          "Gas cartridge type",
+          "Stored pressure type"
+        ],
+        "correctAnswer": 1
+      },
+      {
+        "id": 11,
+        "question": "Which is the waste disposal method that produces heat?",
+        "options": [
+          "Recycling",
+          "Composting",
+          "Incineration",
+          "Waste compaction"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "id": 12,
+        "question": "Which Personal Protective Equipment (PPE) is used for the protection from fumes?",
+        "options": [
+          "Apron",
+          "Goggles",
+          "Ear mask",
+          "Nose mask"
+        ],
+        "correctAnswer": 4
+      },
+      {
+        "id": 13,
+        "question": "What is the full form of BIS?",
+        "options": [
+          "Board of Indian Standard",
+          "Bureau of Indian Standard",
+          "Board of International Standard",
+          "Bureau of International Standard"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "id": 14,
+        "question": "Which method is used to lift and move heavy loads?",
+        "options": [
+          "Winches",
+          "Crane and slings",
+          "Layers and Rollers",
+          "Machine moving platforms"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "id": 15,
+        "question": "What is starving in extinguishing of fire?",
+        "options": [
+          "Adding fuel to the fire",
+          "Using water to cool the fire",
+          "Removing fuel element from the fire",
+          "Preventing oxygen supply to the fire"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "id": 16,
+        "question": "What is the name of PPE? ⛑️",
+        "options": [
+          "Nose mask",
+          "Head shield",
+          "Face shield",
+          "Hand screen"
+        ],
+        "correctAnswer": 4
+      },
+      {
+        "id": 17,
+        "question": "Which disposal method of waste save lot of energy?",
+        "options": [
+          "Land fill",
+          "Recycling",
+          "Incineration",
+          "Composting"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "id": 18,
+        "question": "Which artificial respiration method is to be performed to the victim with injuries on the chest and belly?",
+        "options": [
+          "Schafer’s method",
+          "Mouth to mouth method",
+          "Mouth to nose method",
+          "Nelson’s arm-lift back pressure method"
+        ],
+        "correctAnswer": 4
+      },
+      {
+        "id": 19,
+        "question": "Which type of occupational health hazard is cause for infection?",
+        "options": [
+          "Electrical hazard",
+          "Biological hazard",
+          "Physiological hazard",
+          "Psychological hazard"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "id": 20,
+        "question": "What is the use of this tool? khil",
+        "options": [
+          "Holding the hot substances",
+          "Cutting and twisting the wires",
+          "Extracting nails from the wood",
+          "Loosening and tightening the bolts and nuts"
+        ],
+        "correctAnswer": 3
+      },
+      {
+        "id": 21,
+        "question": "How will you diagonise the victim is suffering under cardiac arrest?",
+        "options": [
+          "Gets pain in spinal guard",
+          "Mouth will be closed tightly",
+          "Heavy swelling on his stomach",
+          "Appears blue colour around his lips"
+        ],
+        "correctAnswer": 4
+      },
+      {
+        "id": 22,
+        "question": "What is the name of the tool? cutting pliers",
+        "options": [
+          "Wire stripper",
+          "Crimping tool",
+          "Combination pliers",
+          "Diagonal cutting pliers"
+        ],
+        "correctAnswer": 4
+      },
+      {
+        "id": 23,
+        "question": "What is the name of the safety sign? 🧤",
+        "options": [
+          "Warning sign",
+          "Mandatory sign",
+          "Prohibition sign",
+          "Information sign"
+        ],
+        "correctAnswer": 4
+      },
+      {
+        "id": 24,
+        "question": "What will be first-aid to be given to stop the bleeding of the victim? ",
+        "options": [
+          "Applying ointment",
+          "Keep the injured portion upward",
+          "Covering the wound portion by dressing",
+          "Applying pressure over the injured portion"
+        ],
+        "correctAnswer": 4
+      },
+      {
+        "id": 25,
+        "question": "What immediate action should be taken to rescue the victim, if he is still in contact with the electrical power supply?",
+        "options": [
+          "Pull or push him from the contact by hand",
+          "Inform your authority about this electric shock",
+          "Call someone for helping to remove him from contact",
+          "Break the contact by switching off the power supply"
+        ],
+        "correctAnswer": 4
+      },
+      {
+        "id": 26,
+        "question": "What is the name of the cautionary sign?🔺⑉🚶🏻‍♂️",
+        "options": [
+          "School",
+          "Guarded",
+          "Unguarded",
+          "Pedestrian crossing"
+        ],
+        "correctAnswer": 4
+      },
+      {
+        "id": 27,
+        "question": "Which is the golden hour for the victim injured on head with risk of dying?",
+        "options": [
+          "First 15 minutes",
+          "First 30 minutes",
+          "First 45 minutes",
+          "First 60 minutes"
+        ],
+        "correctAnswer": 2
+      },
+      {
+        "id": 28,
+        "question": "Which condition of the victim is referred as COMA stage?",
+        "options": [
+          "Unconscious but can respond to calls",
+          "Conscious but cannot respond to calls",
+          "Breathing but cannot respond to calls",
+          "Lie totally senseless and do not respond to calls"
+        ],
+        "correctAnswer": 4
+      }
+    ]
+  },
+  "userProgress": {
+    "totalTests": 12,
+    "completedTests": 8,
+    "averageScore": 78,
+    "strongSubjects": [
+      "Mathematics",
+      "Physics"
+    ],
+    "weakSubjects": [
+      "English",
+      "Chemistry"
+    ],
+    "recentScores": [
+      {
+        "test": "Math-1",
+        "score": 85
+      },
+      {
+        "test": "Science-1",
+        "score": 72
+      },
+      {
+        "test": "English-1",
+        "score": 65
+      },
+      {
+        "test": "Physics-1",
+        "score": 90
+      },
+      {
+        "test": "Chemistry-1",
+        "score": 58
+      }
+    ]
+  },
+  "testResults": [
+    {
+      "id": "1",
+      "testId": 1,
+      "userId": 1,
+      "score": 85,
+      "totalQuestions": 10,
+      "correctAnswers": 8,
+      "timeTaken": 45,
+      "completedAt": "2024-01-15T10:30:00Z"
+    },
+    {
+      "id": "2",
+      "testId": 2,
+      "userId": 1,
+      "score": 72,
+      "totalQuestions": 15,
+      "correctAnswers": 11,
+      "timeTaken": 40,
+      "completedAt": "2024-01-14T14:20:00Z"
+    },
+    {
+      "id": "1754998405182",
+      "testId": "1",
+      "userId": "2",
+      "score": 30,
+      "totalQuestions": 10,
+      "correctAnswers": 3,
+      "timeTaken": 1,
+      "completedAt": "2025-08-12T11:33:25.182Z",
+      "answers": {
+        "1": 1,
+        "2": 2,
+        "3": 3,
+        "4": 3,
+        "5": 2,
+        "6": 3,
+        "7": 3,
+        "8": 3,
+        "9": 3,
+        "10": 3
+      }
+    },
+    {
+      "id": "1755002946992",
+      "testId": "5",
+      "userId": "2",
+      "score": 7,
+      "totalQuestions": 28,
+      "correctAnswers": 2,
+      "timeTaken": 1,
+      "completedAt": "2025-08-12T12:49:06.992Z",
+      "answers": {
+        "1": 0,
+        "2": 3,
+        "3": 2,
+        "4": 2,
+        "5": 3,
+        "6": 2,
+        "7": 2,
+        "8": 1,
+        "9": 2,
+        "10": 3
+      }
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "email": "admin@example.com",
+      "password": "admin123",
+      "role": "admin"
+    },
+    {
+      "id": "2",
+      "email": "user1@example.com",
+      "password": "user123",
+      "role": "user"
+    }
+  ]
+}
